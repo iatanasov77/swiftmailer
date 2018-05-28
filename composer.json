@@ -38,6 +38,6 @@
         }
     },
     "replace": {
-        "swiftmailer/swiftmailer": ">=4.0.0"
+        "swiftmailer/swiftmailer": "6.*"
     }
 }
