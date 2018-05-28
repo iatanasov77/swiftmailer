@@ -36,5 +36,8 @@
         "branch-alias": {
             "dev-master": "6.1-dev"
         }
+    },
+    "replace": {
+        "swiftmailer/swiftmailer": ">=4.0.0"
     }
 }
